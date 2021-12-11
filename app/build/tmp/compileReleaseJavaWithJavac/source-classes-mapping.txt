@@ -1,2 +1,0 @@
-com/example/livecamerafootagekotlin/BuildConfig.java
- com.example.livecamerafootagekotlin.BuildConfig
